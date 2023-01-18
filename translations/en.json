@@ -1,0 +1,9 @@
+{
+    "title": "TheSgrashIcons",
+    "config": {
+      "abort": {
+        "single_instance_allowed": "Only a single configuration of TheSgrashIcons is allowed."
+      },
+      "step": {}
+    }
+  }

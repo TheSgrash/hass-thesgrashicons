@@ -1,0 +1,11 @@
+{
+    "domain": "thesgrashicons",
+    "name": "TheSgrashIcons",
+    "documentation": "https://github.com/thesgrash/hass-thesgrashicons",
+    "dependencies": ["frontend", "http"],
+    "codeowners": [],
+    "requirements": [],
+    "config_flow": true,
+    "version": "1.0.0",
+    "iot_class": "local_polling"
+}
